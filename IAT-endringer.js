@@ -100,7 +100,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 				'Hvis du gjør feil vil en rød <font color="#ff0000"><b>X</b></font> vises. ' +
 				'Trykk på den andre tasten for å fortsette.<br/>' +
 				'<u>Gjennomfør så raskt du kan </u> mens du er så nøyaktig som mulig.<br/><br/></p>'+
-				'<p align="center">Trykk på <b>space bar</b> når du er klar til å starte.</font></p></div>',
+				'<p align="center">Trykk på <b>mellomromstasten</b> når du er klar til å starte.</font></p></div>',
 				
 		instAttributePractice: '<div><p align="center" style="font-size:20px; font-family:arial">' +
 				'<font color="#000000"><u>Del blockNum av nBlocks </u><br/><br/></p>' +
@@ -110,7 +110,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 				'Hvis du gjør feil vil en rød <font color="#ff0000"><b>X</b></font> vises. ' +
 				'Trykk på den andre tasten for å fortsette..<br/>' +
 				'<u>Gjennomfør så raskt du kan </u> mens du er så nøyaktig som mulig..<br/><br/></p>'+
-				'<p align="center">Trykk på <b>space bar</b> når du er klar til å starte.</font></p></div>',		
+				'<p align="center">Trykk på <b>mellomromstasten</b> når du er klar til å starte.</font></p></div>',		
 				
 		instFirstCombined : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 				'<font color="#000000"><u>Del blockNum av nBlocks </u><br/><br/></p>' +
@@ -121,7 +121,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 				'Hvis du gjør feil vil en rød <font color="#ff0000"><b>X</b></font> vises. ' +
 				'Trykk på den andre tasten for å fortsette.<br/>' + 
 				'<u>Gjennomfør så raskt du kan </u> mens du er så nøyaktig som mulig.<br/><br/></p>' +
-				'<p align="center">Trykk på <b>space bar</b> når du er klar til å starte.</font></p></div>',
+				'<p align="center">Trykk på <b>mellomromstasten</b> når du er klar til å starte.</font></p></div>',
 		instSecondCombined : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 				'<font color="#000000"><u>Del blockNum av nBlocks </u><br/><br/></p>' +
 				'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
@@ -130,7 +130,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 				'Bruk <b>I</b> tasten for <font color="#336600">rightCategory</font> og for  <font color="#0000ff">rightAttribute</font>.<br/>' +
 				'Hvert objekt tilhører bare en kategori.<br/><br/>' +
 				'<u>Gjennomfør så raskt du kan </u> mens du er så nøyaktig som mulig.<br/><br/></p>' +
-				'<p align="center">Trykk på <b>space bar</b> når du er klar til å starte.</font></p></div>',
+				'<p align="center">Trykk på <b>mellomromstasten</b> når du er klar til å starte.</font></p></div>',
 		instSwitchCategories : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 				'<font color="#000000"><u>Del blockNum av nBlocks </u><br/><br/></p>' +
 				'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
@@ -138,6 +138,6 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 				'Legg venstre finger på <b>E</b> tasten for <font color="#336600">leftCategory</font>.<br/>' +
 				'Legg høyre finger på <b>I</b> tasten for <font color="#336600">rightCategory</font>.<br/><br/>' +
 				'<u>Gjennomfør så raskt du kan </u> mens du er så nøyaktig som mulig.<br/><br/></p>' +
-				'<p align="center">Trykk på <b>space bar</b> når du er klar til å starte.</font></p></div>',				
+				'<p align="center">Trykk på <b>mellomromstasten</b> når du er klar til å starte.</font></p></div>',				
 	});
 });
