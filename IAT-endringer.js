@@ -27,7 +27,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
-			stimulusMedia : [ //Stimuli content as PIP's media objects
+			stimulusMedia : [ //Stimuli content as PIP's media objects 
     		    {image : 'yf1.jpg'}, 
     			{image : 'yf4.jpg'}, 
     			{image : 'yf5.jpg'}, 
@@ -101,6 +101,16 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 				'Trykk på den andre tasten for å fortsette.<br/>' +
 				'<u>Gjennomfør så raskt du kan </u> mens du er så nøyaktig som mulig.<br/><br/></p>'+
 				'<p align="center">Trykk på <b>space bar</b> når du er klar til å starte.</font></p></div>',
+				
+		instAttributePractice: '<div><p align="center" style="font-size:20px; font-family:arial">' +
+				'<font color="#000000"><u>Del blockNum av nBlocks </u><br/><br/></p>' +
+				'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
+				'Legg venstre finger på <b>E</b> tasten for objekter som tilhører kategorien <font color="#0000ff">leftAttribute.</font>' +
+				'<br/>Legg høyre finger på <b>I</b> tasten for objekter som tilhører kategorien <font color="#0000ff">rightAttribute</font>.<br/><br/>' +
+				'Hvis du gjør feil vil en rød <font color="#ff0000"><b>X</b></font> vises. ' +
+				'Trykk på den andre tasten for å fortsette..<br/>' +
+				'<u>Gjennomfør så raskt du kan </u> mens du er så nøyaktig som mulig..<br/><br/></p>'+
+				'<p align="center">Trykk på <b>space bar</b> når du er klar til å starte.</font></p></div>',		
 				
 		instFirstCombined : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 				'<font color="#000000"><u>Del blockNum av nBlocks </u><br/><br/></p>' +
