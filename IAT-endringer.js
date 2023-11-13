@@ -138,6 +138,9 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 				'Legg venstre finger på <b>E</b> tasten for <font color="#336600">leftCategory</font>.<br/>' +
 				'Legg høyre finger på <b>I</b> tasten for <font color="#336600">rightCategory</font>.<br/><br/>' +
 				'<u>Gjennomfør så raskt du kan </u> mens du er så nøyaktig som mulig.<br/><br/></p>' +
-				'<p align="center">Trykk på <b>mellomromstasten</b> når du er klar til å starte.</font></p></div>',				
+				'<p align="center">Trykk på <b>mellomromstasten</b> når du er klar til å starte.</font></p></div>',	
+		remindErrorText : '<p align="center" style="font-size:"0.6em"; font-family:arial">' +
+			'Hvis du gjør feil så vil en rød <font color="#ff0000"><b>X</b></font> vises. ' +
+			'Trykk den andre tasten for å fortsette.<p/>',
 	});
 });
