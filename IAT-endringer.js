@@ -57,7 +57,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 					{word: 'forferdelig'},
 					{word: 'skuffet'},
 					{word: 'motbydelig'},
-					{word: 'ondksap'}
+					{word: 'ondskap'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
