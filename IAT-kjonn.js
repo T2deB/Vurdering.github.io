@@ -5,12 +5,12 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 		category1 : {
 			name : 'Hankjønn navn', //Will appear in the data.
 			title : {
-				media : {word : 'Minoritet'}, //Name of the category presented in the task.
+				media : {word : 'Hankjønn navn'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		  {word : 'Jens'}, 
+    		  	{word : 'Jens'}, 
     			{word : 'Johan'}, 
     			{word : 'Daniel'}, 
     			{word : 'Kristian'}, 
@@ -23,12 +23,12 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 		category2 :	{
 			name : 'Hunkjønn navn', //Will appear in the data.
 			title : {
-				media : {word : 'Etnisk norsk'}, //Name of the category presented in the task.
+				media : {word : 'Hunkjønn navn'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects 
-    		  {word : 'Ida'}, 
+    		  	{word : 'Ida'}, 
     			{word : 'Mari'}, 
     			{word : 'Sara'}, 
     			{word : 'Aurora'}, 
