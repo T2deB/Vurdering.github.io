@@ -3,7 +3,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 
 	return iatExtension({
 		category1 : {
-			name : 'Hankjønn navn', //Will appear in the data.
+			name : 'Guttenavn', //Will appear in the data.
 			title : {
 				media : {word : 'Hankjønn navn'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
@@ -21,7 +21,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
 		category2 :	{
-			name : 'Hunkjønn navn', //Will appear in the data.
+			name : 'Jentenavn', //Will appear in the data.
 			title : {
 				media : {word : 'Hunkjønn navn'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
@@ -53,7 +53,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 					{word: 'forferdelig'},
 					{word: 'skuffet'},
 					{word: 'motbydelig'},
-					{word: 'ondksap'}
+					{word: 'ondskap'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
