@@ -51,11 +51,11 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
 					{word: 'fryktelig'},
-					{word: 'taper'},
+					{word: 'trist'},
 					{word: 'lidelse'},
 					{word: 'såret'},
-					{word: 'horribelt'},
-					{word: 'terribelt'},
+					{word: 'forferdelig'},
+					{word: 'skuffet'},
 					{word: 'motbydelig'},
 					{word: 'ondksap'}
 				],
