@@ -2,7 +2,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
     var API = new APIConstructor();
 
 	return iatExtension({
-		category1 : {
+		category3 : {
 			name : 'Guttenavn', //Will appear in the data.
 			title : {
 				media : {word : 'Guttenavn'}, //Name of the category presented in the task.
@@ -20,7 +20,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 			//Stimulus css (style)
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
-		category2 :	{
+		category4 :	{
 			name : 'Jentenavn', //Will appear in the data.
 			title : {
 				media : {word : 'Jentenavn'}, //Name of the category presented in the task.
