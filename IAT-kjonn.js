@@ -85,7 +85,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 			//Text and style for the separator between the top and bottom category labels.
 			orText : 'eller', 
 			orCss : {'font-size':'1.8em', color:'#000000'},
-			finalText : 'Trykk på mellomromstasten for å forstette til neste oppgave',
+			finalText : 'Trykk på mellomromstasten for å fortsette til neste oppgave',
 			
 		instCategoriesPractice: '<div><p align="center" style="font-size:20px; font-family:arial">' +
 				'<font color="#000000"><u>Del blockNum av nBlocks </u><br/><br/></p>' +
