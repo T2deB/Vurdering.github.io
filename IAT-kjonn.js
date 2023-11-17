@@ -1,5 +1,6 @@
-define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(APIConstructor, iatExtension){
-    var API = new APIConstructor();
+define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(testConstructor, iatExtension){
+    var test = new testConstructor();
+
 
 	return iatExtension({
 		category1 : {
