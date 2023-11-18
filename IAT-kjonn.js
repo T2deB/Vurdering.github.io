@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(testConstructor, iatExtension){
+define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat9.js'], function(testConstructor, iatExtension){
     var test = new testConstructor();
 
 
