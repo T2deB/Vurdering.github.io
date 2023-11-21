@@ -117,7 +117,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat9.js'], function(A
 				'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 				'Bruk <b>E</b> tasten for <font color="#336600">leftCategory</font> og for <font color="#0000ff">leftAttribute</font>.<br/>' +
 				'Bruk <b>I</b> tasten for <font color="#336600">rightCategory</font> og for  <font color="#0000ff">rightAttribute</font>.<br/>' +
-				'Hvert obejkt tilhører bare en kategori.<br/><br/>' +
+				'Hvert objekt tilhører bare en kategori.<br/><br/>' +
 				'Hvis du gjør feil vil en rød <font color="#ff0000"><b>X</b></font> vises. ' +
 				'Trykk på den andre tasten for å fortsette.<br/>' + 
 				'<u>Gjennomfør så raskt du kan </u> mens du er så nøyaktig som mulig.<br/><br/></p>' +
